@@ -1,4 +1,4 @@
-🚀 Project Title & Tagline
+🚀 Portfolio
 =========================
 ### Vaishnavi Portfolio: A Showcase of Creativity and Innovation
 A static website designed to demonstrate the power of HTML, CSS, and JavaScript in creating a stunning online presence.
